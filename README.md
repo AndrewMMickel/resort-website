@@ -1,6 +1,6 @@
 # _Resort_
 
-#### _first webpage, 2/6/2020_
+#### _Resort website, 2/6/2020_
 
 #### By _**Andrew Mickel**_
 

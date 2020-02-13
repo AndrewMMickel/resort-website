@@ -2,18 +2,30 @@ h1 {
     color: goldenrod;
     text-align: center;
     background-color: blue;
+    font-family: cursive;
 }
+
+a {
+    color: goldenrod;
+    font-family: Impact;
+}
+
+body {background-color: purple}
 
 h2 {
     color: goldenrod;
     font-style: italic;
     text-align: center;
     background-color: blue;
+    font-family: cursive;
 }
 
 h3 {
+    color: goldenrod;
     font-style: italic;
     text-align: center;
+    background-color: lightblue;
+    font-family: cursive;
 }
 
 h4 {
@@ -27,7 +39,7 @@ h5 {
 }
 
 p {
-    font-family: sans-serif;
+    font-family: cursive;
     text-align: center;
 }
 
@@ -36,6 +48,12 @@ ul {
     line-height: 30px;
     text-align: center;
     font-family: "Comic Sans";
+}
+
+li {
+    color: goldenrod;
+    font-family: cursive;
+    text-align: center;
 }
 
 img {
